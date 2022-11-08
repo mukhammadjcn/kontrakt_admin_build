@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.f7c2a497.css",
-    "main.js": "/static/js/main.0a2aa7b9.js",
+    "main.css": "/static/css/main.a74d09b0.css",
+    "main.js": "/static/js/main.22433230.js",
     "static/media/firma_1.jpeg": "/static/media/firma_1.222f06848b99aef2717c.jpeg",
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.f7c2a497.css",
-    "static/js/main.0a2aa7b9.js"
+    "static/css/main.a74d09b0.css",
+    "static/js/main.22433230.js"
   ]
 }
